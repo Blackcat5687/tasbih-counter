@@ -1,0 +1,6 @@
+{
+  "name": "Tasbih Counter",
+  "description": "تطبيق مسبحة أذكار إلكترونية بسيط وأنيق لتتبع تسبيحك اليومي - Simple and elegant Tasbih counter app to track your daily Dhikr.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
